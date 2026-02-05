@@ -4,16 +4,16 @@
 
 
 ## Team Info
-- 22471A05XX — **Syed Rizwana** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )  
+- 22471A05XX — **Syed Rizwana**  
   _Work Done: Dataset collection, preprocessing, SentencePiece tokenization, model training_
 
-- 22471A05XX — **Mallela Sai Jyothi** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )  
+- 22471A05H1 — **Mallela Sai Jyothi**
   _Work Done: Transformer architecture design, hyperparameter tuning, experimentation_
 
-- 22471A05XX — **Duddu Divya** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )  
+- 22471A05F3 — **Duddu Divya**  
   _Work Done: Model evaluation, BLEU score analysis, comparative study_
 
-- 22471A05XX — **Dasari Srujana Sankeerthi** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )  
+- 22471A05F0 — **Dasari Srujana Sankeerthi**
   _Work Done: Literature survey, documentation, result visualization_
 
 ---
