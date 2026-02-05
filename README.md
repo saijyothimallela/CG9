@@ -8,7 +8,6 @@
   _Work Done: Dataset collection, preprocessing, SentencePiece tokenization, model training_
 
 - 22471A05H1 — **Mallela Sai Jyothi**
-- 
   _Work Done: Transformer architecture design, hyperparameter tuning, experimentation_
 
 - 22471A05F3 — **Duddu Divya**  
