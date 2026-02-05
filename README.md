@@ -1,5 +1,5 @@
 
-# CG9 – transformer-Based Amharic–English Neural Machine Translation
+# CG9 – Transformer-Based Amharic–English Neural Machine Translation
 
 
 
