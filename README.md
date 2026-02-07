@@ -4,7 +4,7 @@
 
 
 ## Team Info
-- 22471A05XX — **Syed Rizwana**  
+- — **Syed Rizwana**  
   _Work Done: Dataset collection, preprocessing, SentencePiece tokenization, model training_
 
 - 22471A05H1 — **Mallela Sai Jyothi**
