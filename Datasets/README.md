@@ -1,4 +1,3 @@
-Got it 👍 I’ll fill this **exactly for the dataset you provided (`tanzil_dataset.csv`)**.
 
 ---
 
@@ -84,10 +83,4 @@ Sentence-level alignment between Amharic and English
 The Tanzil Amharic–English dataset is a high-quality parallel corpus containing over **25k aligned sentence pairs** from Qur’anic translations.
 It is well-suited for **low-resource neural machine translation research**, enabling effective training and evaluation of modern deep learning models for Amharic-to-English translation.
 
----
 
-If you want, I can also:
-
-* Convert this into **PPT slide content**
-* Rewrite it in **IEEE paper format**
-* Shorten it for **project report / viva / poster**
