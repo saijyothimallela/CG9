@@ -1,5 +1,5 @@
 Dataset Title
-
+Tanzil Amharic–English Parallel Corpus (Qur’an Translation Dataset)
 Usage of Dataset
 
 
@@ -99,4 +99,5 @@ Summary
 
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 
